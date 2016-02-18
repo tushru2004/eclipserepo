@@ -25,7 +25,7 @@ public class QuickSort {
 		int pos= A[end];
 		for(int i = start; i<end;i++)
 		{
-			
+			System.out.println();
 		}
 		return 1;
 	}
